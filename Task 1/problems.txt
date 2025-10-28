@@ -1,0 +1,10 @@
+[X] Visual Studio - develop Windows apps
+    X Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+facing this error while using `flutter doctor`. May be it will be fixed if we installed Visual Stuido (that big violet colored one)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+not working of Android toolchain, Chrome at first, then researched and fixed it!
